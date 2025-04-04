@@ -35,3 +35,10 @@ root@SB522:/storage/external_storage/sda1 # dd if=/dev/block/boot of=boot.img
 32768+0 records out
 16777216 bytes transferred in 1.060 secs (15827562 bytes/sec)
 ```
+# Debloat
+```
+root@SB522:/ # pm disable com.comigo.cloud
+root@SB522:/ # pm disable ru.start.kartinatv
+root@SB522:/ # pm disable com.comigo.kartina.kiosk
+root@SB522:/ # pm disable com.comigo.rootkeeper
+```
