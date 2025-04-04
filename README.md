@@ -71,4 +71,14 @@ root@SB522:/ # pm disable com.comigo.cloud
 root@SB522:/ # pm disable ru.start.kartinatv
 root@SB522:/ # pm disable com.comigo.kartina.kiosk
 root@SB522:/ # pm disable com.comigo.rootkeeper
+root@SB522:/ # pm disable com.comigo.welcome
+root@SB522:/ # pm disable com.comigo.remoteshellconnector
+root@SB522:/ # pm disable com.comigo.cloud.res
+root@SB522:/ # pm disable com.comigo.welcome
+root@SB522:/ # pm disable com.comigo.tr069client
+root@SB522:/ # pm disable com.comigo.applicationupdater
+root@SB522:/ # pm disable com.comigo.upgrader
+root@SB522:/ # pm disable com.comigo.tv
+root@SB522:/ # pm disable com.comigo.payment.stb
+root@SB522:/ # pm disable com.comigo.operator.stb
 ```
